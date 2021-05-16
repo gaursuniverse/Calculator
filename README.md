@@ -3,8 +3,9 @@
 # 
 #
 # Mobile View :
-# `<-------Light Mode------>`  `<-------Dark Mode------->`
+## _Light Mode_
 ![alt](https://res.cloudinary.com/dez2plvsf/image/upload/v1621174350/Calculator/lightMobile_v4vfp7.jpg)
+## _Dark Mode_
 ![alt](https://res.cloudinary.com/dez2plvsf/image/upload/v1621174350/Calculator/darkMobile_xinbul.jpg)
 # 
 # 
